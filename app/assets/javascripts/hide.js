@@ -9,3 +9,4 @@ x.addEventListener("click",function(){
  $(document).ready(function() {
   hideWhenClicked();
 }
+}
